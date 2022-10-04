@@ -1,0 +1,22 @@
+.bg-image {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -170px;
+}
+
+
+.nav-rs {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+
+.img{
+  margin-top: -90px;
+}
+
+.nav-rs a {
+  text-decoration: none;
+}
